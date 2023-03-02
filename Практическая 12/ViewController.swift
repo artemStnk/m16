@@ -35,7 +35,7 @@ class ViewController: UIViewController {
         lable.text = Constants.Text.text1
         lable.textColor = Constants.Colors.myColor2
         lable.font = Constants.Fonts.font1
-        lable.numberOfLines = 0
+        lable.numberOfLines = 1
         lable.sizeToFit()
         
         return lable
