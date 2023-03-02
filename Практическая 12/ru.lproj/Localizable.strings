@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  Практическая 12
+
+  Created by Артем Ситников on 19.02.2023.
+  
+*/
+"Hotel Moscow" = "Отель Москва";
+"The hotel is located in St. Petersburg on the banks of the Neva" = "Отель раположен в Санкт-Петербурге на берегу Невы";
+"Invites you to stay in one of the 843 rooms" = "Приглашает остановиться в одном из 843 номеров";
